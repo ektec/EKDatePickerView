@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>21B5BD52-061C-4AAF-AEA0-5463D3D4C060</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EKDatePickerView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CD9445D6AE2435E89889773277BAFD56DDDC4236</key>
+		<string>https://github.com/ektec/EKDatePickerView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>EKDatePickerView/EKDatePickerView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CD9445D6AE2435E89889773277BAFD56DDDC4236</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ektec/EKDatePickerView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CD9445D6AE2435E89889773277BAFD56DDDC4236</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CD9445D6AE2435E89889773277BAFD56DDDC4236</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EKDatePickerView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
